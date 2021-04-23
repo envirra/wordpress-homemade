@@ -1,0 +1,9 @@
+<var>
+    <theme-name>Homemade</theme-name>
+    <theme-slug>homemade</theme-slug>
+    <wp-version>5.5</wp-version>
+    <php-version>7.3</php-version>
+    <minimum-image-size>805 x 604</minimum-image-size>
+    <recommended-image-size>1070 x 764</recommended-image-size>
+    <post-image-size>378 x 252</post-image-size>
+</var>
